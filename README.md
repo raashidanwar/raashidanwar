@@ -1,9 +1,11 @@
-### Hi there 👋
+# About Me
 
-<!--
-**raashidanwar/raashidanwar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-%40raashidanwar-239a3b.svg)](https://github.com/raashidanwar)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%40raashidanwar-0c66c3.svg)](https://www.linkedin.com/in/raashidanwar/)
+[![codeforces](https://img.shields.io/badge/codeforces-%40raashidanwar-0c66c3.svg)](https://codeforces.com/profile/raashidanwar)
 
-Here are some ideas to get you started:
+Hi, I am [@raashidanwar](https://github.com/raashidanwar). 👋 I am a Software Engineer 👨‍💻, currently working [@Github](https://github.com/) <img src="https://user-images.githubusercontent.com/35250507/213904052-e1df66a7-50b7-499d-84ab-659a5f8b6f28.png" width="14.7">
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
