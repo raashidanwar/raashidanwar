@@ -39,7 +39,7 @@ Hi 👋, I am a Software Engineer 👨‍💻, I love distributed systems.
 ## Technologies I know
 - **Languages**: C++, JavaScript, Ruby, Python.
 - **Runtime & frameworks**: Node.js, React, Ruby on Rails.
-- **Databases**: SQL, PostgreSQL, Redis, Elaticsearch, Mongodb.
+- **Databases**: SQL, PostgreSQL, Redis, Elasticsearch, Mongodb.
 - **Cloud services**: AWS.
 - **Other tools**: Docker, GitHub, CI/CD.
 
