@@ -14,7 +14,7 @@ Hi 👋, I am a Software Engineer @Google 👨‍💻, I love distributed system
 
 ### PhonePe <img src="https://github.com/user-attachments/assets/c6c6dc8d-4b82-484e-b8d0-b9e165ab5c7f" width="20">
 
-**[Oct 2023 - March 2024]**
+**[Oct 2023 - April 2024]**
 
 - Contributed to FASTag payment solution for plaza merchant.
 
